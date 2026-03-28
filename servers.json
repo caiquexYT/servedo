@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "CX PvP Network",
+      "ip": "play.cxpvp.com"
+    },
+    {
+      "name": "SkyWars Brasil",
+      "ip": "jogar.skywars.com"
+    },
+    {
+      "name": "BedWars Pro",
+      "ip": "bedwars.pro"
+    }
+  ]
+}
